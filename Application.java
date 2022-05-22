@@ -1,13 +1,4 @@
-<html>
-   <body>   
-      <script language = "javascript" type = "text/javascript">
-         <!--
-            document.write("Hello World!")
-         //-->
-      </script>      
-   </body>
-</html>
-smoke changes made by SG for new operation 
+
 <html>
    <head>     
       <script type = "text/javascript">
@@ -18,12 +9,12 @@ smoke changes made by SG for new operation
             }
          //-->
       </script>      
-   </head>
-   
-   <body>
-      <p>Click the following button to see the result: </p>      
-      <form>
-         <input type = "button" value = "Click Me" onclick = "getValue();" />
-      </form>      
-   </body>
-</html>
+=======
+new feature changes for Rdx    <script type = "text/javascript">
+         <!--
+            function Warn() {
+               alert ("This is a warning message!");
+               document.write ("This is a warning message!");
+            }
+         //-->
+     
